@@ -2,6 +2,12 @@
 
 Meu terceiro projeto: lista de tarefas interativa com persistência local.
 
+## 🔗 Demo ao vivo
+
+**[https://possi-dev.github.io/estudos-03-todo-list/](https://possi-dev.github.io/estudos-03-todo-list/)**
+
+*(Funciona 100% no navegador — sem backend necessário)*
+
 ## O que aprendi aqui
 
 - `localStorage` para persistência de dados
@@ -11,15 +17,6 @@ Meu terceiro projeto: lista de tarefas interativa com persistência local.
 - Animação CSS com `@keyframes`
 - Escape de HTML para segurança
 
-## Funcionalidades
-
-- Adicionar tarefa
-- Marcar como concluída (checkbox)
-- Excluir tarefa
-- Filtrar por status
-- Estatísticas em tempo real
-- Persistência no localStorage
-
-## Como visualizar
+## Como visualizar localmente
 
 Abra o `index.html` no navegador.
